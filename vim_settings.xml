@@ -3980,11 +3980,11 @@
         <mark key="." line="37" column="27" />
         <mark key="^" line="37" column="27" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemAdd/ItemAddActivity.kt" timestamp="1526981543731">
-        <mark key="[" line="59" column="15" />
-        <mark key="]" line="59" column="21" />
-        <mark key="." line="59" column="21" />
-        <mark key="^" line="59" column="21" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemAdd/ItemAddActivity.kt" timestamp="1527168953895">
+        <mark key="[" line="47" column="33" />
+        <mark key="]" line="47" column="33" />
+        <mark key="." line="47" column="33" />
+        <mark key="^" line="47" column="33" />
       </file>
       <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchases/PurchasesAdapter.kt" timestamp="1526974775962">
         <mark key="[" line="11" column="43" />
@@ -4853,11 +4853,11 @@
       <jump line="4" column="0" filename="C:/projects/Inventory/app/src/main/res/layout/fragment_plating_companies.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtVmlld01vZGVsLml0ZW1Db3VudC5vYnNlcnZlKHRoaXMsIE9ic2VydmVyIHsKICAgICAgICAgICAgdmFsIHRpdGxlID0gU3RyaW5nLmZvcm1hdChnZXRTdHJpbmcoUi5zdHJpbmcuaW52ZW50b3J5X2NvdW50KSwgaXQpCiAgICAgICAgICAgIGJpbmRpbmcudGFiTGF5b3V0LmdldFRhYkF0KDApPy50ZXh0ID0gdGl0bGUKICAgICAgICB9KQo=</text>
@@ -4866,31 +4866,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICBpbml0QXBwQmFyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGludGVudCAK</text>
+        <text encoding="base64">ICAgICAgICBpbml0RGF0YUJpbmRpbmcoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG1WaWV3TW9kZWwuc2V0Q3VycmVudE1hbnVmYWN0dXJlS2V5KGFkYXB0ZXIuZ2V0SXRlbShwb3NpdGlvbikpIGFzIE1hbnVmYWN0dXJlRW50cnlrbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBzZXRDdXJyZW50TWFudWZhY3R1cmVLZXkoa2V5OlN0cmluZykgewogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRTdXBwb3J0QWN0aW9uQmFyKHRvb2xiYXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGluaXRBcHBCYXIoKSB7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
     <search>
