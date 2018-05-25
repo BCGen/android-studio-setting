@@ -15,9 +15,6 @@
         <mark key="." line="14" column="65" />
         <mark key="^" line="14" column="65" />
       </file>
-      <file name="/a.dummy" timestamp="1527063946194">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemCreate/ItemCreateViewModel.kt" timestamp="1526783160830">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -516,12 +513,6 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/manufactures/ManufacturesFragment.kt" timestamp="1527063915289">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="D:/Others/kotlin-notepad-master/app/src/main/java/com/udacity/notepad/data/Note.kt" timestamp="1517394519139">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="26" />
@@ -828,6 +819,11 @@
         <mark key="]" line="10" column="65" />
         <mark key="^" line="10" column="65" />
         <mark key="." line="10" column="65" />
+      </file>
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clients/ClientsFragment.kt" timestamp="1527063056013">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/platingCompanies/PlatingCompaniesViewModelFactory.kt" timestamp="1526698506008">
         <mark key="[" line="9" column="53" />
@@ -1363,6 +1359,12 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
+      <file name="C:/projects/AnkoPrep/app/src/main/java/com/example/b5489/ankoprep/MainActivityUI.kt" timestamp="1527241995338">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+      </file>
       <file name="C:/projects/Inventory/app/src/main/res/anim/exit_to_right.xml" timestamp="1526446863400">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="26" />
@@ -1856,12 +1858,6 @@
         <mark key="]" line="8" column="51" />
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
-      </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/Repository.kt" timestamp="1527063698009">
-        <mark key="'" line="59" column="42" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/Others/QuakeReport/app/src/main/java/com/example/b5489/quakereport/EarthquakeAdapter.kt" timestamp="1512455599618">
         <mark key="[" line="168" column="51" />
@@ -2853,6 +2849,12 @@
         <mark key="]" line="24" column="50" />
         <mark key="." line="24" column="50" />
         <mark key="^" line="24" column="50" />
+      </file>
+      <file name="C:/projects/AnkoPrep/app/build.gradle" timestamp="1527241738320">
+        <mark key="[" line="45" column="60" />
+        <mark key="]" line="45" column="60" />
+        <mark key="." line="45" column="60" />
+        <mark key="^" line="45" column="60" />
       </file>
       <file name="D:/Others/CriminalIntent/build.gradle" timestamp="1511358909899">
         <mark key="[" line="3" column="31" />
@@ -4289,9 +4291,6 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1527064041124">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Others/projects/android-lifecycles/arch/app/build.gradle" timestamp="1525698937619">
         <mark key="[" line="58" column="4" />
         <mark key="]" line="58" column="17" />
@@ -4664,6 +4663,11 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="C:/projects/AnkoPrep/app/src/main/java/com/example/b5489/ankoprep/MainActivity.kt" timestamp="1527241833208">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="D:/Others/Demo/app/src/main/java/com/example/b5489/demo/ui/productCreate1/ProductCreate1Activity.kt" timestamp="1522859620640">
         <mark key="[" line="11" column="36" />
         <mark key="]" line="11" column="57" />
@@ -4723,6 +4727,12 @@
         <mark key="]" line="21" column="57" />
         <mark key="." line="21" column="57" />
         <mark key="^" line="21" column="57" />
+      </file>
+      <file name="C:/projects/AnkoPrep/build.gradle" timestamp="1527241784839">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
       </file>
       <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/utilities/BaseTypeExt.kt" timestamp="1526732335579">
         <mark key="[" line="6" column="40" />
@@ -4878,43 +4888,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwZXI/LnNldFRleHQoUi5pZC50dl9vcmRlciwgaGVscGVyLmxheW91dFBvc2l0aW9uLmFycmF5SW5kZXhUb09yZGVyKDApKQo=</text>
+        <text encoding="base64">ICAgICAgICB1aS4K</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtVmlld01vZGVsLml0ZW1Db3VudC5vYnNlcnZlKHRoaXMsIE9ic2VydmVyIHsKICAgICAgICAgICAgdmFsIHRpdGxlID0gU3RyaW5nLmZvcm1hdChnZXRTdHJpbmcoUi5zdHJpbmcuaW52ZW50b3J5X2NvdW50KSwgaXQpCiAgICAgICAgICAgIGJpbmRpbmcudGFiTGF5b3V0LmdldFRhYkF0KDApPy50ZXh0ID0gdGl0bGUKICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwZXI/LnNldFRleHQoUi5pZC50dl9vcmRlciwgaGVscGVyLmxheW91dFBvc2l0aW9uLmFycmF5SW5kZXhUb09yZGVyKDApKQo=</text>
+        <text encoding="base64">ICAgICAgICB1aS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAK2lkL3R2X3N0eWxlX2xhYmVsIgo=</text>
+        <text encoding="base64">ICAgICAgICB1aQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X3N0eWxlX2xhYmVsIgogICAgICAgIHN0eWxlPSJAc3R5bGUvc21hbGxfbGFiZWxfc3R5bGUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMTZkcCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvc3R5bGUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAK2lkL3R2X29yZGVyIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiIC8+</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X2l0ZW1fc3R5bGUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IjE2ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjhkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAK2lkL3R2X3N0eWxlX2xhYmVsIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgdG9vbHM6dGV4dD0iMTBYNCBCRitDUyIgLz4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZUxheW91dCB7ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X29yZGVyIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIxNmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSIxNmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTZkcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgdG9vbHM6dGV4dD0iMDEiIC8+</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0QXBwQmFyKCkK</text>
+        <text encoding="base64">ICAgIC8vQW5ka28K</text>
       </register>
     </registers>
     <search>
