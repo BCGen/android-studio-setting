@@ -745,11 +745,11 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="58" column="40" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/Items/ItemsFragment.kt" timestamp="1526975006027">
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="12" />
-        <mark key="." line="37" column="12" />
-        <mark key="^" line="37" column="52" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/Items/ItemsFragment.kt" timestamp="1527221159955">
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="17" />
+        <mark key="." line="42" column="17" />
+        <mark key="^" line="42" column="17" />
       </file>
       <file name="D:/Others/ex4/app/src/main/res/values/dimens.xml" timestamp="1520080497409">
         <mark key="[" line="3" column="43" />
@@ -828,11 +828,6 @@
         <mark key="]" line="10" column="65" />
         <mark key="^" line="10" column="65" />
         <mark key="." line="10" column="65" />
-      </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clients/ClientsFragment.kt" timestamp="1527063056013">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/platingCompanies/PlatingCompaniesViewModelFactory.kt" timestamp="1526698506008">
         <mark key="[" line="9" column="53" />
@@ -1068,11 +1063,11 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseOrders/PurchasesOrdersActivity.kt" timestamp="1526996820528">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="26" />
-        <mark key="^" line="64" column="66" />
-        <mark key="." line="27" column="0" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseOrders/PurchasesOrdersActivity.kt" timestamp="1527233345140">
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="66" column="15" />
+        <mark key="^" line="66" column="15" />
+        <mark key="." line="66" column="15" />
       </file>
       <file name="C:/projects/Inventory/app/src/main/res/layout/fragment_manufactures.xml" timestamp="1527003348540">
         <mark key="[" line="21" column="26" />
@@ -1344,6 +1339,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="46" column="3" />
       </file>
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseItemAdd/PurchaseItemAddActivity.kt" timestamp="1527221727805">
+        <mark key="[" line="83" column="33" />
+        <mark key="]" line="83" column="33" />
+        <mark key="^" line="83" column="33" />
+        <mark key="." line="83" column="33" />
+      </file>
       <file name="D:/Others/architectrueComponentsSunshine/app/src/main/res/layout/activity_forecast.xml" timestamp="1521115651982">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -1410,11 +1411,12 @@
         <mark key="." line="9" column="50" />
         <mark key="^" line="9" column="50" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/res/layout/activity_purchase_orders.xml" timestamp="1526724601342">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="11" />
+      <file name="C:/projects/Inventory/app/src/main/res/layout/activity_purchase_orders.xml" timestamp="1527221899830">
+        <mark key="'" line="43" column="2" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="50" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="D:/Others/Demo/app/build.gradle" timestamp="1524749962453">
         <mark key="[" line="52" column="66" />
@@ -2792,6 +2794,12 @@
         <mark key="^" line="161" column="71" />
         <mark key="." line="46" column="35" />
       </file>
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseOrderAdd/PurchaseOrderAddActivity.kt" timestamp="1527221862067">
+        <mark key="[" line="57" column="23" />
+        <mark key="]" line="57" column="28" />
+        <mark key="^" line="57" column="28" />
+        <mark key="." line="57" column="28" />
+      </file>
       <file name="D:/Downloads/Borrow2/app/src/main/res/layout/recycle_item.xml" timestamp="1521388242434">
         <mark key="[" line="26" column="44" />
         <mark key="]" line="27" column="23" />
@@ -2858,11 +2866,11 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/Items/ItemsAdapter.kt" timestamp="1526821282494">
-        <mark key="[" line="13" column="58" />
-        <mark key="]" line="13" column="70" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/Items/ItemsAdapter.kt" timestamp="1527233863640">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
         <mark key="^" line="13" column="70" />
-        <mark key="." line="13" column="70" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/Downloads/idm/Compressed/RoomDemo2017-caf99ee9a29a951e9f77ba487323c1a78e94cb19/FamousPeople/app/src/main/java/com/example/b5489/famouspeople/CreateUser.kt" timestamp="1521381426904">
         <mark key="[" line="27" column="110" />
@@ -2876,6 +2884,7 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
+      <file name="C:/projects/Inventory/app/src/main/res/layout/activity_purchase_order_add.xml" timestamp="1527233536950" />
       <file name="D:/Others/CriminalIntent/app/src/main/java/com/example/b5489/criminalintent/utils/SingletonHolder.kt" timestamp="1511769234688">
         <mark key="[" line="21" column="30" />
         <mark key="]" line="22" column="22" />
@@ -2996,7 +3005,7 @@
         <mark key="^" line="37" column="12" />
         <mark key="." line="37" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527079580465">
+      <file name="/Dummy.txt" timestamp="1527233756443">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -3980,7 +3989,7 @@
         <mark key="." line="37" column="27" />
         <mark key="^" line="37" column="27" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemAdd/ItemAddActivity.kt" timestamp="1527220771938">
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemAdd/ItemAddActivity.kt" timestamp="1527220921652">
         <mark key="[" line="157" column="37" />
         <mark key="]" line="157" column="37" />
         <mark key="." line="157" column="37" />
@@ -4045,6 +4054,12 @@
         <mark key="]" line="23" column="105" />
         <mark key="." line="23" column="105" />
         <mark key="^" line="23" column="105" />
+      </file>
+      <file name="C:/projects/Inventory/app/src/main/res/layout/fragment_items.xml" timestamp="1527221060616">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/Others/architectrueComponentsSunshine/app/src/main/res/layout/list_item_forecast_today.xml" timestamp="1521082763405">
         <mark key="[" line="5" column="27" />
@@ -4178,11 +4193,11 @@
         <mark key="." line="10" column="106" />
         <mark key="^" line="10" column="106" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/res/layout/item_item.xml" timestamp="1526714444800">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="C:/projects/Inventory/app/src/main/res/layout/item_item.xml" timestamp="1527233751959">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="6" column="3" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/Others/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clientCreate/ClientCreateViewModel.kt" timestamp="1525789549315">
         <mark key="[" line="15" column="17" />
@@ -4438,6 +4453,12 @@
         <mark key="]" line="33" column="50" />
         <mark key="^" line="33" column="50" />
         <mark key="." line="33" column="50" />
+      </file>
+      <file name="C:/projects/Inventory/app/src/main/res/layout/item_purchase_item_add.xml" timestamp="1527233609011">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="53" />
+        <mark key="." line="22" column="53" />
+        <mark key="^" line="22" column="53" />
       </file>
       <file name="D:/Downloads/Borrow2/app/src/main/java/com/example/b5489/borrow2/db/BorrowModel.kt" timestamp="1521388038171">
         <mark key="[" line="13" column="19" />
@@ -4851,46 +4872,49 @@
       <jump line="14" column="10" filename="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/manufactures/ManufacturesFragment.kt" />
       <jump line="1" column="0" filename="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/manufactures/ManufacturesFragment.kt" />
       <jump line="4" column="0" filename="C:/projects/Inventory/app/src/main/res/layout/fragment_plating_companies.xml" />
+      <jump line="4" column="0" filename="C:/projects/Inventory/app/src/main/res/layout/activity_purchase_orders.xml" />
+      <jump line="0" column="0" filename="C:/projects/Inventory/app/src/main/res/layout/activity_purchase_orders.xml" />
+      <jump line="44" column="2" filename="C:/projects/Inventory/app/src/main/res/layout/activity_purchase_orders.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBoZWxwZXI/LnNldFRleHQoUi5pZC50dl9vcmRlciwgaGVscGVyLmxheW91dFBvc2l0aW9uLmFycmF5SW5kZXhUb09yZGVyKDApKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>l</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtVmlld01vZGVsLml0ZW1Db3VudC5vYnNlcnZlKHRoaXMsIE9ic2VydmVyIHsKICAgICAgICAgICAgdmFsIHRpdGxlID0gU3RyaW5nLmZvcm1hdChnZXRTdHJpbmcoUi5zdHJpbmcuaW52ZW50b3J5X2NvdW50KSwgaXQpCiAgICAgICAgICAgIGJpbmRpbmcudGFiTGF5b3V0LmdldFRhYkF0KDApPy50ZXh0ID0gdGl0bGUKICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNwX3BsYXRpbmcuYnRuX2FkZAo=</text>
+        <text encoding="base64">ICAgICAgICBoZWxwZXI/LnNldFRleHQoUi5pZC50dl9vcmRlciwgaGVscGVyLmxheW91dFBvc2l0aW9uLmFycmF5SW5kZXhUb09yZGVyKDApKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNwX3BsYXRpbmcuYnRuX2FkZAo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAK2lkL3R2X3N0eWxlX2xhYmVsIgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X3N0eWxlX2xhYmVsIgogICAgICAgIHN0eWxlPSJAc3R5bGUvc21hbGxfbGFiZWxfc3R5bGUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMTZkcCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvc3R5bGUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAK2lkL3R2X29yZGVyIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiIC8+</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X2l0ZW1fc3R5bGUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IjE2ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjhkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAK2lkL3R2X3N0eWxlX2xhYmVsIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgdG9vbHM6dGV4dD0iMTBYNCBCRitDUyIgLz4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0QXBwQmFyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0RGF0YUJpbmRpbmcoKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X29yZGVyIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIxNmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSIxNmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTZkcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgdG9vbHM6dGV4dD0iMDEiIC8+</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbml0QXBwQmFyKCkK</text>
       </register>
     </registers>
     <search>
