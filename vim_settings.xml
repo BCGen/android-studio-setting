@@ -820,6 +820,11 @@
         <mark key="^" line="10" column="65" />
         <mark key="." line="10" column="65" />
       </file>
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clients/ClientsFragment.kt" timestamp="1527063056013">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/platingCompanies/PlatingCompaniesViewModelFactory.kt" timestamp="1526698506008">
         <mark key="[" line="9" column="53" />
         <mark key="]" line="9" column="54" />
@@ -1054,11 +1059,10 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseOrders/PurchasesOrdersActivity.kt" timestamp="1527233345140">
-        <mark key="[" line="66" column="15" />
-        <mark key="]" line="66" column="15" />
-        <mark key="^" line="66" column="15" />
-        <mark key="." line="66" column="15" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseOrders/PurchasesOrdersActivity.kt" timestamp="1527248280851">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="C:/projects/Inventory/app/src/main/res/layout/fragment_manufactures.xml" timestamp="1527003348540">
         <mark key="[" line="21" column="26" />
@@ -1770,7 +1774,7 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/platingCompanies/PlatingCompaniesFragment.kt" timestamp="1527062763405">
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/platingCompanies/PlatingCompaniesFragment.kt" timestamp="1527248202255">
         <mark key="[" line="38" column="11" />
         <mark key="]" line="38" column="11" />
         <mark key="." line="38" column="11" />
@@ -3007,7 +3011,7 @@
         <mark key="^" line="37" column="12" />
         <mark key="." line="37" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527233756443">
+      <file name="/Dummy.txt" timestamp="1527248361250">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -3193,11 +3197,11 @@
         <mark key="." line="9" column="53" />
         <mark key="^" line="9" column="53" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/res/layout/item_plating_company.xml" timestamp="1527050259695">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="21" />
+      <file name="C:/projects/Inventory/app/src/main/res/layout/item_plating_company.xml" timestamp="1527248356371">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="D:/Others/Sunshine/S0101ExerciseCreateLayout/app/src/main/java/com/example/b5489/s0101_exercise_createlayout/utilities/NetworkUtils.kt" timestamp="1511956856040">
         <mark key="[" line="66" column="0" />
@@ -4219,11 +4223,11 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="C:/projects/Inventory/app/build.gradle" timestamp="1527244332473">
-        <mark key="[" line="93" column="68" />
-        <mark key="]" line="95" column="55" />
-        <mark key="^" line="95" column="55" />
-        <mark key="." line="95" column="55" />
+      <file name="C:/projects/Inventory/app/build.gradle" timestamp="1527248027162">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="43" column="31" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="D:/Others/RoomWithAView/app/build.gradle" timestamp="1521560178097">
         <mark key="[" line="9" column="24" />
@@ -4284,6 +4288,11 @@
         <mark key="]" line="20" column="19" />
         <mark key="^" line="20" column="9" />
         <mark key="." line="20" column="19" />
+      </file>
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/platingCompanies/PlatingCompaniesAdapter.kt" timestamp="1527248400764">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Miwok/app/src/main/java/com/example/b5489/miwok/Word.kt" timestamp="1509989606572">
         <mark key="[" line="21" column="29" />
@@ -4889,43 +4898,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHRDb2xvciA9IHRoZW1lLmdldENvbG9yKFIuYXR0ci5jb2xvckFjY2VudCkK</text>
+        <text encoding="base64">ICAgICAgICBoZWxwZXI/LnNldFRleHQoUi5pZC4pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>count</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtVmlld01vZGVsLml0ZW1Db3VudC5vYnNlcnZlKHRoaXMsIE9ic2VydmVyIHsKICAgICAgICAgICAgdmFsIHRpdGxlID0gU3RyaW5nLmZvcm1hdChnZXRTdHJpbmcoUi5zdHJpbmcuaW52ZW50b3J5X2NvdW50KSwgaXQpCiAgICAgICAgICAgIGJpbmRpbmcudGFiTGF5b3V0LmdldFRhYkF0KDApPy50ZXh0ID0gdGl0bGUKICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHRDb2xvciA9IHRoZW1lLmdldENvbG9yKFIuYXR0ci5jb2xvckFjY2VudCkK</text>
+        <text encoding="base64">ICAgICAgICBoZWxwZXI/LnNldFRleHQoUi5pZC4pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnZpZXcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9wdXJjaGFzZV9vcmRlcnMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcjxBY3Rpdml0eT4ub25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlKQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5jb3JlOmNvcmUta3R4OjEuMC4wLWFscGhhMScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5jb3JlOmNvcmUta3R4OjEuMC4wLWFscGhhMScK</text>
       </register>
     </registers>
     <search>
