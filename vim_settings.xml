@@ -2862,11 +2862,11 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/Items/ItemsAdapter.kt" timestamp="1527257527946">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="23" column="0" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/Items/ItemsAdapter.kt" timestamp="1527257665137">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="11" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="D:/Downloads/idm/Compressed/RoomDemo2017-caf99ee9a29a951e9f77ba487323c1a78e94cb19/FamousPeople/app/src/main/java/com/example/b5489/famouspeople/CreateUser.kt" timestamp="1521381426904">
         <mark key="[" line="27" column="110" />
@@ -4194,7 +4194,7 @@
         <mark key="." line="10" column="106" />
         <mark key="^" line="10" column="106" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/res/layout/item_item.xml" timestamp="1527257224773">
+      <file name="C:/projects/Inventory/app/src/main/res/layout/item_item.xml" timestamp="1527298986975">
         <mark key="[" line="67" column="46" />
         <mark key="]" line="67" column="46" />
         <mark key="^" line="67" column="46" />
@@ -4295,6 +4295,9 @@
         <mark key="]" line="21" column="29" />
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
+      </file>
+      <file name="/fragment.java" timestamp="1527299004275">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Others/projects/android-lifecycles/arch/app/build.gradle" timestamp="1525698937619">
         <mark key="[" line="58" column="4" />
