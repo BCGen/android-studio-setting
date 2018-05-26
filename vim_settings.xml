@@ -1725,10 +1725,10 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/utilities/BaseExt.kt" timestamp="1526981410103">
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/utilities/BaseExt.kt" timestamp="1527341610826">
         <mark key="[" line="32" column="78" />
-        <mark key="]" line="32" column="82" />
-        <mark key="." line="32" column="82" />
+        <mark key="]" line="32" column="78" />
+        <mark key="." line="32" column="78" />
         <mark key="^" line="32" column="82" />
       </file>
       <file name="D:/Downloads/idm/Compressed/FirebaseUI-Android-master/FirebaseUI-Android-master/RxAndroid/app/src/main/java/com/example/b5489/rxandroid/apis/apiresponse/GetToDoListAPIResponse.kt" timestamp="1524727098037">
@@ -2559,11 +2559,11 @@
         <mark key="." line="44" column="89" />
         <mark key="^" line="44" column="89" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/res/layout/spinner_with_button.xml" timestamp="1526957644623">
-        <mark key="[" line="39" column="60" />
-        <mark key="]" line="40" column="33" />
-        <mark key="." line="40" column="33" />
-        <mark key="^" line="40" column="33" />
+      <file name="C:/projects/Inventory/app/src/main/res/layout/spinner_with_button.xml" timestamp="1527342233536">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="11" />
       </file>
       <file name="D:/Downloads/idm/Compressed/architectureComponentsSunshineStartingCode/architectureComponentsSunshineStartingCode/app/src/main/java/com/example/android/sunshine/ui/list/ForecastAdapter.kt" timestamp="1525620624835">
         <mark key="[" line="57" column="32" />
@@ -4011,11 +4011,10 @@
         <mark key="." line="37" column="27" />
         <mark key="^" line="37" column="27" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemAdd/ItemAddActivity.kt" timestamp="1527220921652">
-        <mark key="[" line="157" column="37" />
-        <mark key="]" line="157" column="37" />
-        <mark key="." line="157" column="37" />
-        <mark key="^" line="157" column="37" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemAdd/ItemAddActivity.kt" timestamp="1527342771667">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="112" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchases/PurchasesAdapter.kt" timestamp="1526974775962">
         <mark key="[" line="11" column="43" />
@@ -4933,43 +4932,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5zcE90aGVyPy5zcD8uaGludCA9IFN0cmluZy5mb3JtYXQoZ2V0U3RyaW5nKFIuc3RyaW5nLnBsZWFzZV9jaG9vc2UpLCBpdC5nZXRTaXplTnVsbFRvWmVybygpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>a</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgUmVwb3NpdG9yeS5pdGVtc01hcC52YWx1ZT8uZ2V0SXRlbXNCeUNsaWVudEtleShpdC5rZXkpPy5zaXplID86IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5zcE90aGVyPy5zcD8uaGludCA9IFN0cmluZy5mb3JtYXQoZ2V0U3RyaW5nKFIuc3RyaW5nLnBsZWFzZV9jaG9vc2UpLCBpdC5nZXRTaXplTnVsbFRvWmVybygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5zcE90aGVyPy5zcD8uaGludCA9IFN0cmluZy5mb3JtYXQoZ2V0U3RyaW5nKFIuc3RyaW5nLnBsZWFzZV9jaG9vc2UpLCBpdC5nZXRTaXplTnVsbFRvWmVybygpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgID8udG9MaXN0KCk/LnNvcnRlZEJ5IHsgaXQubmFtZSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5zcE90aGVyPy5zcD8uaGludCA9IFN0cmluZy5mb3JtYXQoZ2V0U3RyaW5nKFIuc3RyaW5nLnBsZWFzZV9jaG9vc2UpLCBpdC5nZXRTaXplTnVsbFRvWmVybygpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICB2YWwgcmVzdWx0ID0gcmVwb3NpdG9yeS5wbGF0aW5nQ29tcGFuaWVzTWFwLnZhbHVlPy52YWx1ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3RoZXJBcnJheUFkYXB0ZXIuYWRkQWxsKGl0KQogICAgICAgICAgICBvdGhlckFycmF5QWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgID8udG9MaXN0KCk/LnNvcnRlZEJ5IHsgaXQubmFtZSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5zcE90aGVyPy5zcD8uaGludCA9IFN0cmluZy5mb3JtYXQoZ2V0U3RyaW5nKFIuc3RyaW5nLnBsZWFzZV9jaG9vc2UpLCBpdC5nZXRTaXplTnVsbFRvWmVybygpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICB2YWwgcmVzdWx0ID0gcmVwb3NpdG9yeS5wbGF0aW5nQ29tcGFuaWVzTWFwLnZhbHVlPy52YWx1ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5zcE90aGVyPy5zcD8uaGludCA9IFN0cmluZy5mb3JtYXQoZ2V0U3RyaW5nKFIuc3RyaW5nLnBsZWFzZV9jaG9vc2UpLCBpdC5nZXRTaXplTnVsbFRvWmVybygpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOm1zX2hpbnQ9IkBzdHJpbmcvcGxlYXNlX2Nob29zZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHB1cmNoYXNlT3JkZXJzID0gcmVwb3NpdG9yeS5wdXJjaGFzZU9yZGVyc01hcC52YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGJpbmRpbmcuc3BPdGhlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYXRpbmdDb21wYW55LnF1YW50aXR5UHVyY2hhc2VPcmRlciA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGJpbmRpbmcuc3BPdGhlcj8uc3AK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
