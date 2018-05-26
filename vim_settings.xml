@@ -1275,11 +1275,11 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clients/ClientsViewModel.kt" timestamp="1527305533314">
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="29" column="30" />
-        <mark key="." line="29" column="30" />
-        <mark key="^" line="29" column="30" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clients/ClientsViewModel.kt" timestamp="1527310994602">
+        <mark key="[" line="34" column="38" />
+        <mark key="]" line="34" column="35" />
+        <mark key="." line="34" column="35" />
+        <mark key="^" line="34" column="35" />
       </file>
       <file name="D:/Others/UserProfile/app/src/main/java/com/example/b5489/userprofile/UserRepository.kt" timestamp="1521075178990">
         <mark key="[" line="19" column="26" />
@@ -1485,11 +1485,11 @@
         <mark key="." line="28" column="46" />
         <mark key="^" line="28" column="46" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clients/ClientsAdapter.kt" timestamp="1527305115333">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="13" column="50" />
-        <mark key="." line="19" column="0" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clients/ClientsAdapter.kt" timestamp="1527311056605">
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="69" />
+        <mark key="^" line="14" column="69" />
+        <mark key="." line="14" column="69" />
       </file>
       <file name="D:/Others/CriminalIntent/app/src/main/res/values/strings.xml" timestamp="1511524805148">
         <mark key="[" line="12" column="14" />
@@ -3658,7 +3658,7 @@
         <mark key="." line="24" column="53" />
         <mark key="^" line="24" column="53" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/network/DataSourceExt.kt" timestamp="1527301945516">
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/network/DataSourceExt.kt" timestamp="1527306871484">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -4566,11 +4566,11 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="81" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/model/ClientModel.kt" timestamp="1527304970001">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="^" line="9" column="10" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/model/ClientModel.kt" timestamp="1527306786373">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="24" />
       </file>
       <file name="D:/Others/Pets/app/src/main/res/layout/activity_catalog.xml" timestamp="1517041425076">
         <mark key="[" line="54" column="59" />
@@ -4919,43 +4919,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>quantityStyle</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>quantityStyle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwZXI/LnNldFRleHQoUi5pZC50dl9tYW51ZmFjdHVyZSwgZ2V0TWFudWZhY3R1cmUoaXRlbT8ua2V5KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgUmVwb3NpdG9yeS5pdGVtc01hcC52YWx1ZT8uZ2V0SXRlbXNCeUNsaWVudEtleShpdC5rZXkpPy5zaXplID86IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZ2dlci5kKCIke2l0LmNsaWVudEtleX0sICR7aXQua2V5fSwgJHt9IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZ2dlci5kKCIke2l0LmNsaWVudEtleX0sICR7aXQua2V5fSwgJHt9IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUudmFsdWUgPSBzZXRUaXRsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmQoIiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUudmFsdWUgPSBzZXRUaXRsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUudmFsdWUgPSBzZXRUaXRsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPy5zaXplID86IDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUudmFsdWUgPSBzZXRUaXRsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPy5maWx0ZXIgeyBpdC5jbGllbnRLZXkgPT0gaXQua2V5IH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUudmFsdWUgPSBzZXRUaXRsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlcG9zaXRvcnkuaXRlbXNNYXAudmFsdWU/LmdldEl0ZW1zQnlDbGllbnRLZXkoaXQua2V5KT8uc2l6ZSA/OiAwCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUudmFsdWUgPSBzZXRUaXRsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudC5xdWFudGl0eVN0eWxlID0gaXRlbT8ucXVhbnRpdHlTbWFsbCA/OiAwCg==</text>
       </register>
     </registers>
     <search>
