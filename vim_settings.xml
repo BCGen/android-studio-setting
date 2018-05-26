@@ -795,7 +795,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/utilities/ActivityWithViewModel.kt" timestamp="1527002064013">
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/utilities/ActivityWithViewModel.kt" timestamp="1527341196676">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="17" column="48" />
         <mark key="." line="17" column="48" />
@@ -2919,7 +2919,7 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemAdd/ItemAddViewModel.kt" timestamp="1527305885022">
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemAdd/ItemAddViewModel.kt" timestamp="1527341206897">
         <mark key="'" line="148" column="28" />
         <mark key="[" line="145" column="28" />
         <mark key="]" line="145" column="35" />
@@ -4327,9 +4327,6 @@
         <mark key="]" line="21" column="29" />
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
-      </file>
-      <file name="/fragment.java" timestamp="1527299004275">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Others/projects/android-lifecycles/arch/app/build.gradle" timestamp="1525698937619">
         <mark key="[" line="58" column="4" />
