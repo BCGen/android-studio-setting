@@ -585,11 +585,11 @@
         <mark key="^" line="5" column="75" />
         <mark key="." line="5" column="75" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clientInfo/ClientInfoViewModel.kt" timestamp="1527054483812">
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="22" />
-        <mark key="." line="37" column="22" />
-        <mark key="^" line="37" column="22" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clientInfo/ClientInfoViewModel.kt" timestamp="1527304195297">
+        <mark key="[" line="36" column="68" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+        <mark key="^" line="37" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/CriminalIntent/app/src/main/java/com/example/b5489/criminalintent/CrimeActivity.kt" timestamp="1510419953390">
         <mark key="[" line="16" column="52" />
@@ -1269,6 +1269,12 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clients/ClientsViewModel.kt" timestamp="1527304826781">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="15" />
+        <mark key="." line="33" column="15" />
+        <mark key="^" line="33" column="15" />
+      </file>
       <file name="D:/Others/UserProfile/app/src/main/java/com/example/b5489/userprofile/UserRepository.kt" timestamp="1521075178990">
         <mark key="[" line="19" column="26" />
         <mark key="]" line="20" column="11" />
@@ -1473,11 +1479,11 @@
         <mark key="." line="28" column="46" />
         <mark key="^" line="28" column="46" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clients/ClientsAdapter.kt" timestamp="1527303013803">
-        <mark key="[" line="15" column="66" />
-        <mark key="]" line="15" column="67" />
-        <mark key="." line="15" column="67" />
-        <mark key="^" line="15" column="67" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clients/ClientsAdapter.kt" timestamp="1527304736958">
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="13" column="50" />
+        <mark key="." line="13" column="50" />
+        <mark key="^" line="13" column="50" />
       </file>
       <file name="D:/Others/CriminalIntent/app/src/main/res/values/strings.xml" timestamp="1511524805148">
         <mark key="[" line="12" column="14" />
@@ -1839,7 +1845,7 @@
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/Repository.kt" timestamp="1527253909552">
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/Repository.kt" timestamp="1527303174599">
         <mark key="[" line="16" column="48" />
         <mark key="]" line="16" column="48" />
         <mark key="^" line="16" column="48" />
@@ -3585,11 +3591,11 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clientInfo/ClientInfoActivity.kt" timestamp="1527051934873">
-        <mark key="[" line="55" column="39" />
-        <mark key="]" line="55" column="39" />
-        <mark key="." line="55" column="39" />
-        <mark key="^" line="55" column="39" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/clientInfo/ClientInfoActivity.kt" timestamp="1527304530121">
+        <mark key="[" line="45" column="40" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="39" />
+        <mark key="^" line="45" column="39" />
       </file>
       <file name="D:/Others/VisualizerPreferences/app/src/main/res/layout/activity_visualizer.xml" timestamp="1520500633602">
         <mark key="[" line="1" column="1" />
@@ -4547,11 +4553,11 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="81" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/model/ClientModel.kt" timestamp="1527299321115">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="8" column="37" />
-        <mark key="^" line="8" column="37" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/model/ClientModel.kt" timestamp="1527304744855">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
       </file>
       <file name="D:/Others/Pets/app/src/main/res/layout/activity_catalog.xml" timestamp="1517041425076">
         <mark key="[" line="54" column="59" />
@@ -4898,44 +4904,44 @@
       <jump line="44" column="2" filename="C:/projects/Inventory/app/src/main/res/layout/activity_purchase_orders.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>key</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbGlzdCA9IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgY2xpZW50ID0gQ2xpZW50RW50cnkoaWQgPSBpZCwgbmFtZSA9IG5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBoZWxwZXI/LnNldFRleHQoUi5pZC50dl9tYW51ZmFjdHVyZSwgZ2V0TWFudWZhY3R1cmUoaXRlbT8ua2V5KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGlzdCA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiq8ik4SAkaWQgt3O8V6aopVwyIgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGhlbHBlcj8uc2V0VGV4dChSLmlkLnR2X21hbnVmYWN0dXJlLCBnZXRNYW51ZmFjdHVyZShpdGVtPy5rZXkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZChrZXkpCg==</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleS5pc0VtcHR5KCkgLT4gewo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICB2YWwgdG9hc3RTdHJpbmcgPSB3aGVuIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBpZC5pc0VtcHR5KCkgLT4gIr3Qv+mkSqvIpOFJRCIKLy8vLyAgICAgICAgICAgICAgICAgICAgICAgIEluamVjdG9yVXRpbHMucHJvdmlkZVJlcG9zaXRvcnkoKS5jbGllbnRzTWFwLnZhbHVlPy5nZXRDbGllbnQoaWQpID09IG51bGwgLT4gewovLy8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBjbGllbnQgPSBDbGllbnRFbnRyeShpZCwgbmFtZSkKLy8vLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBJbnZlbnRvcnlEYXRhU291cmNlLmNsaWVudHNSZWYuc2V0VG9EYXRhYmFzZShjbGllbnQpCi8vLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzbWlzcygpCi8vLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgIqvIpOEgJGlkILdzvFemqKVcIgovLy8vICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgIEluamVjdG9yVXRpbHMucHJvdmlkZVJlcG9zaXRvcnkoKS5jbGllbnRzTWFwLnZhbHVlPy5nZXRLZXlCeVZhbHVlIHsgaXQuaWQgPT0gaWQgfT8uaXNFbXB0eSgpCi8vICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiAiq8ik4SAkaWQgpHemc6ZiIgovLyAgICAgICAgICAgICAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2V0VGl0bGUoKSAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aXRsZS5hZGRTb3VyY2UocmVwb3NpdG9yeS5jbGllbnRzTWFwLCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEludmVudG9yeURhdGFTb3VyY2UuY2xpZW50c1JlZi5zZXRUb0RhdGFiYXNlKGNsaWVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUudmFsdWUgPSByZXBvc2l0b3J5LmN1cnJlbnRDbGllbnQudmFsdWU/LmlkCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEludmVudG9yeURhdGFTb3VyY2UuY2xpZW50c1JlZi5zZXRUb0RhdGFiYXNlKGNsaWVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
     </registers>
     <search>
