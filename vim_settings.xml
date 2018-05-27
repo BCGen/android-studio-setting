@@ -51,6 +51,7 @@
         <mark key="." line="34" column="33" />
         <mark key="^" line="34" column="31" />
       </file>
+      <file name="C:/projects/Inventory/app/src/main/res/layout/activity_main.xml" timestamp="1527415968056" />
       <file name="D:/Others/VisualizerPreferences/app/src/main/res/values/styles.xml" timestamp="1520521751158">
         <mark key="[" line="8" column="36" />
         <mark key="]" line="8" column="65" />
@@ -3069,6 +3070,12 @@
         <mark key="." line="37" column="41" />
         <mark key="^" line="37" column="41" />
       </file>
+      <file name="C:/projects/Inventory/app/src/main/res/layout/dialog_client_add.xml" timestamp="1527416012718">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="31" />
+        <mark key="^" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+      </file>
       <file name="D:/Others/CriminalIntent/app/src/main/java/com/example/b5489/criminalintent/utils/AppCompatActivityExtensions.kt" timestamp="1510936350075">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="55" />
@@ -4214,10 +4221,10 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/main/ClientAddDialog.kt" timestamp="1527413716869">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/main/ClientAddDialog.kt" timestamp="1527416153716">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/database/Items.kt" timestamp="1526226537037">
         <mark key="[" line="9" column="29" />
@@ -4261,11 +4268,11 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="C:/projects/Inventory/app/build.gradle" timestamp="1527413841727">
-        <mark key="[" line="93" column="68" />
-        <mark key="]" line="94" column="57" />
-        <mark key="^" line="94" column="57" />
-        <mark key="." line="94" column="57" />
+      <file name="C:/projects/Inventory/app/build.gradle" timestamp="1527415347715">
+        <mark key="[" line="95" column="4" />
+        <mark key="]" line="95" column="17" />
+        <mark key="^" line="95" column="17" />
+        <mark key="." line="95" column="17" />
       </file>
       <file name="D:/Others/RoomWithAView/app/build.gradle" timestamp="1521560178097">
         <mark key="[" line="9" column="24" />
@@ -4945,43 +4952,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRGlhbG9nKCkuCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmI1NDg5LmludmVudG9yeS5SLmlkLmF2aQo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>invisible</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnNwU2lnbj8uc3A/Lm9uSXRlbVNlbGVjdGVkTGlzdGVuZXIgPSBnZXRCYXNlSXRlbVNlbGVjdExpc3RlbmVyIHsgbVZpZXdNb2RlbC5zaWduLnZhbHVlID0gaXQgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXZpLmhpZGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRGlhbG9nKCkuCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmI1NDg5LmludmVudG9yeS5SLmlkLmF2aQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5kaWFsb2dfY2xpZW50X2FkZC4qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaSA9IGNsZWFyRmluZFZpZXdCeUlkQ2FjaGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBkaWFsb2cuc2hvdygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB2YWwgZGlhbG9nID0gU3BvdHNEaWFsb2coY29udGV4dCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LmZpbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5kCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQVZMb2FkaW5nSW5kaWNhdG9yVmlldy5TbWFsbAo=</text>
       </register>
     </registers>
     <search>
