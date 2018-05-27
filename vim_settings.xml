@@ -122,6 +122,12 @@
         <mark key="." line="54" column="45" />
         <mark key="^" line="54" column="45" />
       </file>
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/model/UiPurchaseOrder.kt" timestamp="1527427007865">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="16" />
+      </file>
       <file name="D:/Others/VisualizerPreferences/app/src/main/java/com/example/b5489/visualizer_preferences/AudioVisuals/AudioInputReader.kt" timestamp="1520505668246">
         <mark key="[" line="36" column="43" />
         <mark key="]" line="36" column="43" />
@@ -830,6 +836,13 @@
         <mark key="^" line="119" column="4" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/model/UiManufacture.kt" timestamp="1527426968977">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="4" column="8" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/GeoQuiz/app/src/main/res/layout/activity_cheat.xml" timestamp="1510161368546">
         <mark key="[" line="29" column="13" />
         <mark key="]" line="30" column="43" />
@@ -1190,12 +1203,6 @@
         <mark key="^" line="44" column="78" />
         <mark key="." line="44" column="78" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/database/ItemEntry.kt" timestamp="1527412879487">
-        <mark key="[" line="44" column="27" />
-        <mark key="]" line="44" column="44" />
-        <mark key="^" line="44" column="44" />
-        <mark key="." line="44" column="44" />
-      </file>
       <file name="D:/Others/Demo/app/src/main/res/layout/list_item_cutsomer.xml" timestamp="1521360610798">
         <mark key="[" line="9" column="32" />
         <mark key="]" line="9" column="32" />
@@ -1267,6 +1274,12 @@
         <mark key="]" line="12" column="41" />
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="41" />
+      </file>
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/model/UiPurchase.kt" timestamp="1527427157566">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="22" />
       </file>
       <file name="D:/Others/kotlin-notepad-master/app/src/main/java/com/udacity/notepad/recycler/NotesAdapter.kt" timestamp="1517394262681">
         <mark key="[" line="41" column="19" />
@@ -1682,11 +1695,10 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/platingCompanies/PlatingCompaniesViewModel.kt" timestamp="1527424502431">
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="42" />
-        <mark key="^" line="22" column="42" />
-        <mark key="." line="22" column="42" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/platingCompanies/PlatingCompaniesViewModel.kt" timestamp="1527425044005">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="D:/Others/ex4/app/src/main/res/layout/activity_child.xml" timestamp="1520081404967">
         <mark key="[" line="11" column="34" />
@@ -1796,9 +1808,9 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/platingCompanies/PlatingCompaniesFragment.kt" timestamp="1527424511177">
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/platingCompanies/PlatingCompaniesFragment.kt" timestamp="1527425045645">
         <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="50" />
+        <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
       <file name="D:/Others/VisualizerPreferences/app/src/main/res/values/arrays.xml" timestamp="1520577016907">
@@ -2119,11 +2131,11 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseItemAdd/PurchaseItemAddViewModel.kt" timestamp="1527424260989">
-        <mark key="[" line="14" column="51" />
-        <mark key="]" line="14" column="47" />
-        <mark key="^" line="14" column="47" />
-        <mark key="." line="14" column="47" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseItemAdd/PurchaseItemAddViewModel.kt" timestamp="1527427974776">
+        <mark key="[" line="96" column="57" />
+        <mark key="]" line="96" column="57" />
+        <mark key="." line="96" column="57" />
+        <mark key="^" line="96" column="57" />
       </file>
       <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/Constants.kt" timestamp="1526278486604">
         <mark key="[" line="5" column="29" />
@@ -2820,11 +2832,11 @@
         <mark key="^" line="161" column="71" />
         <mark key="." line="46" column="35" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseOrderAdd/PurchaseOrderAddActivity.kt" timestamp="1527221862067">
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="57" column="28" />
-        <mark key="^" line="57" column="28" />
-        <mark key="." line="57" column="28" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseOrderAdd/PurchaseOrderAddActivity.kt" timestamp="1527426656747">
+        <mark key="[" line="35" column="40" />
+        <mark key="]" line="36" column="49" />
+        <mark key="^" line="36" column="49" />
+        <mark key="." line="36" column="49" />
       </file>
       <file name="D:/Downloads/Borrow2/app/src/main/res/layout/recycle_item.xml" timestamp="1521388242434">
         <mark key="[" line="26" column="44" />
@@ -3317,11 +3329,11 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="15" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/res/layout/activity_purchase_item_add.xml" timestamp="1527250776072">
-        <mark key="[" line="138" column="52" />
-        <mark key="]" line="139" column="51" />
-        <mark key="." line="139" column="51" />
-        <mark key="^" line="139" column="51" />
+      <file name="C:/projects/Inventory/app/src/main/res/layout/activity_purchase_item_add.xml" timestamp="1527427987577">
+        <mark key="[" line="94" column="58" />
+        <mark key="]" line="94" column="58" />
+        <mark key="." line="94" column="58" />
+        <mark key="^" line="94" column="52" />
       </file>
       <file name="C:/projects/Todo/app/src/main/res/layout/nav_header.xml" timestamp="1526100624234">
         <mark key="[" line="3" column="27" />
@@ -3485,11 +3497,11 @@
         <mark key="^" line="9" column="50" />
         <mark key="." line="9" column="50" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseOrderAdd/PurchaseOrderAddViewModel.kt" timestamp="1526986632868">
-        <mark key="[" line="21" column="72" />
-        <mark key="]" line="22" column="70" />
-        <mark key="." line="22" column="70" />
-        <mark key="^" line="22" column="70" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseOrderAdd/PurchaseOrderAddViewModel.kt" timestamp="1527425141164">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="27" column="4" />
+        <mark key="^" line="27" column="4" />
       </file>
       <file name="C:/projects/MyApplication/app/src/main/java/com/example/b5489/myapplication/MyAdapter.kt" timestamp="1525858159556">
         <mark key="[" line="31" column="27" />
@@ -4316,11 +4328,10 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseOrderAdd/PurchaseOrderAdapter.kt" timestamp="1526986401420">
-        <mark key="[" line="14" column="71" />
-        <mark key="]" line="14" column="84" />
-        <mark key="." line="14" column="84" />
-        <mark key="^" line="14" column="84" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchaseOrderAdd/PurchaseOrderAdapter.kt" timestamp="1527426769075">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="29" />
+        <mark key="." line="14" column="29" />
       </file>
       <file name="D:/Others/Demo/app/src/main/java/com/example/b5489/demo/ui/productCreate/QuickAdapter.kt" timestamp="1522306594276">
         <mark key="[" line="17" column="6" />
@@ -4424,11 +4435,11 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/database/PurchaseEntry.kt" timestamp="1526984661100">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="48" />
-        <mark key="^" line="0" column="48" />
-        <mark key="." line="0" column="48" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/database/PurchaseEntry.kt" timestamp="1527427960663">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+        <mark key="." line="12" column="33" />
       </file>
       <file name="D:/Others/architectrueComponentsSunshine/app/src/main/java/com/example/b5489/architectruecomponentssunshine/data/database/WeatherDao.kt" timestamp="1521384581617">
         <mark key="[" line="14" column="41" />
@@ -4949,46 +4960,47 @@
       <jump line="44" column="2" filename="C:/projects/Inventory/app/src/main/res/layout/activity_purchase_orders.xml" />
       <jump line="170" column="28" filename="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemAdd/ItemAddViewModel.kt" />
       <jump line="136" column="43" filename="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemAdd/ItemAddViewModel.kt" />
+      <jump line="5" column="8" filename="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/model/UiManufacture.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>clientId</text>
+        <text>Int</text>
       </register>
       <register name="-" type="4">
-        <text>clientId</text>
+        <text>Int</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaWFsb2cuZGlzbWlzcygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkA9e0ludGVnZXIudG9TdHJpbmcodmlld01vZGVsLndlaWdodC50b1N0cmluZyl9Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvc2l0b3J5LnNldEN1cnJlbnRDbGllbnRLZXkoKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcHVyY2hhc2VPcmRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biBzZXRDdXJyZW50UHVyY2hhc2VPcmRlcktleShrZXk6IFN0cmluZykgewo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcHVyY2hhc2VPcmRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVZpZXdNb2RlbC5zZXRDdXJyZW50Q2xpZW50S2V5VG9OdWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGltZXN0YW1wOiBTdHJpbmcgPSAiIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2xpZW50S2V5OiBTdHJpbmcgPSAiIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVZpZXdNb2RlbC5zZXRDbGllbnRLZXkoaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaWQ6IFN0cmluZyA9ICIiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvc2l0b3J5LnNldEN1cnJlbnRDbGllbnRLZXkoY2xpZW50SWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBoZWxwZXI/LnNldFRleHQoUi5pZC50dl9vcmRlciwgZ2V0TWFudWZhY3R1cmVCeUtleShpdGVtPy5tYW51ZmFjdHVyZUtleSkpCg==</text>
       </register>
     </registers>
     <search>
