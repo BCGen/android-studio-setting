@@ -3022,7 +3022,7 @@
         <mark key="^" line="37" column="12" />
         <mark key="." line="37" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527257208119">
+      <file name="/Dummy.txt" timestamp="1527387472892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -4011,10 +4011,11 @@
         <mark key="." line="37" column="27" />
         <mark key="^" line="37" column="27" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemAdd/ItemAddActivity.kt" timestamp="1527342771667">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="112" />
-        <mark key="." line="88" column="0" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemAdd/ItemAddActivity.kt" timestamp="1527387630283">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="79" column="72" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/purchases/PurchasesAdapter.kt" timestamp="1526974775962">
         <mark key="[" line="11" column="43" />
@@ -4196,11 +4197,11 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/main/ClientAddDialog.kt" timestamp="1527302737449">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="47" column="41" />
-        <mark key="." line="53" column="0" />
+      <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/main/ClientAddDialog.kt" timestamp="1527388253885">
+        <mark key="[" line="54" column="65" />
+        <mark key="]" line="54" column="75" />
+        <mark key="." line="54" column="75" />
+        <mark key="^" line="54" column="75" />
       </file>
       <file name="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/data/database/Items.kt" timestamp="1526226537037">
         <mark key="[" line="9" column="29" />
@@ -4931,44 +4932,44 @@
       <jump line="170" column="28" filename="C:/projects/Inventory/app/src/main/java/com/example/b5489/inventory/ui/itemAdd/ItemAddViewModel.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5zcE90aGVyPy5zcD8uaGludCA9IFN0cmluZy5mb3JtYXQoZ2V0U3RyaW5nKFIuc3RyaW5nLnBsZWFzZV9jaG9vc2UpLCBpdC5nZXRTaXplTnVsbFRvWmVybygpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>message</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>message</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5zcE90aGVyPy5zcD8uaGludCA9IFN0cmluZy5mb3JtYXQoZ2V0U3RyaW5nKFIuc3RyaW5nLnBsZWFzZV9jaG9vc2UpLCBpdC5nZXRTaXplTnVsbFRvWmVybygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChjb250ZXh0LCBwMD8ubWVzc2FnZSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5zcE90aGVyPy5zcD8uaGludCA9IFN0cmluZy5mb3JtYXQoZ2V0U3RyaW5nKFIuc3RyaW5nLnBsZWFzZV9jaG9vc2UpLCBpdC5nZXRTaXplTnVsbFRvWmVybygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5zcE90aGVyPy5zcD8uaGludCA9IFN0cmluZy5mb3JtYXQoZ2V0U3RyaW5nKFIuc3RyaW5nLnBsZWFzZV9jaG9vc2UpLCBpdC5nZXRTaXplTnVsbFRvWmVybygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3RoZXJBcnJheUFkYXB0ZXIuYWRkQWxsKGl0KQogICAgICAgICAgICBvdGhlckFycmF5QWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5zcE90aGVyPy5zcD8uaGludCA9IFN0cmluZy5mb3JtYXQoZ2V0U3RyaW5nKFIuc3RyaW5nLnBsZWFzZV9jaG9vc2UpLCBpdC5nZXRTaXplTnVsbFRvWmVybygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmlyZWJhc2VEYXRhYmFzZS5nZXRJbnN0YW5jZSgpLmdldFJlZmVyZW5jZSgiZCIpLmFkZExpc3RlbmVyRm9yU2luZ2xlVmFsdWVFdmVudCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5zcE90aGVyPy5zcD8uaGludCA9IFN0cmluZy5mb3JtYXQoZ2V0U3RyaW5nKFIuc3RyaW5nLnBsZWFzZV9jaG9vc2UpLCBpdC5nZXRTaXplTnVsbFRvWmVybygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW52ZW50b3J5RGF0YVNvdXJjZS5jbGllbnRzUmVmLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOm1zX2hpbnQ9IkBzdHJpbmcvcGxlYXNlX2Nob29zZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGJpbmRpbmcuc3BPdGhlcgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGJpbmRpbmcuc3BPdGhlcj8uc3A/LmFkYXB0ZXIgPSBvdGhlckFycmF5QWRhcHRlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGJpbmRpbmcuc3BPdGhlcj8uc3AK</text>
+        <text encoding="base64">Ly8gICAgICAgIG90aGVyQXJyYXlBZGFwdGVyID0gZ2V0QmFzZVNwaW5uZXJBZGFwdGVyKHRoaXMsIG51bGwpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
